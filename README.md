@@ -18,7 +18,7 @@ Extras: React-To-Print
 
 ## Sneak Peek of Home Page 🙈 :
 
-![screenshot1](screenshot1.png)
+![screenshot1](screenshot.png)
 
 <h2>📬 Contact</h2>
 
