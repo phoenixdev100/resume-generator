@@ -18,8 +18,7 @@ Extras: React-To-Print
 
 ## Sneak Peek of Home Page 🙈 :
 
-![screencapture-resumegenx-netlify-app-2022-01-18-16_24_49](https://user-images.githubusercontent.com/64949957/159115311-42275489-8fbe-4d80-9f7c-4d308d9287ce.png)
-![smartmockups_kyk0u3hp](https://user-images.githubusercontent.com/64949957/159115313-ae8bf72c-2a79-425d-8520-32b6ba3e0fcf.jpg)
+![screenshot1](screenshot1.png)
 
 <h2>📬 Contact</h2>
 
